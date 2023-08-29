@@ -1,4 +1,5 @@
 MOVIE RECOMMENDATION SYSTEM
+
 Project to recommend movies based on a sample movie and rating dataset.
 It uses the concept of ‘Collaborative Filtering’ which essentially implies using algorithms to filter data from user reviews to make personalized recommendations for users with similar preferences.
 The developed code can:
